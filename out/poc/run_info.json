@@ -1,0 +1,27 @@
+{
+  "track": "t07",
+  "run_name": "poc",
+  "status": 0,
+  "seed": 42,
+  "offline": true,
+  "input": "fixtures\\t07_redaction",
+  "output": "out\\poc",
+  "pipeline": "src.pipeline",
+  "config_hash": "43c614ef7d4e",
+  "git_sha": null,
+  "runtime_seconds": 3.7395,
+  "stats": {
+    "n_items": 945,
+    "n_reviewed": 5
+  },
+  "machine": {
+    "python": "3.13.17",
+    "platform": "Windows-11-10.0.22631-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"
+  },
+  "output_check": {
+    "pred_file": "out\\poc\\redactions.csv",
+    "exists": true,
+    "missing_columns": []
+  }
+}

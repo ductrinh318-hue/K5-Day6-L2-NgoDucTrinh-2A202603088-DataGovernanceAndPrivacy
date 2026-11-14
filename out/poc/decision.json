@@ -1,0 +1,14 @@
+{
+  "status": "GO",
+  "reason_code": "REDACTED_AND_AUDITED",
+  "reason": "Exported 945 redacted regions after 5 human review decisions.",
+  "owner": "Ngo Duc Trinh (Lead)",
+  "scope": "t07",
+  "evidence": [
+    "out\\poc\\redactions.csv",
+    "out\\poc\\audit_log.jsonl"
+  ],
+  "metrics": {},
+  "ts": "2026-11-14T08:39:40+00:00",
+  "canonical": "GO"
+}

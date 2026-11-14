@@ -1,0 +1,3 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T08:23:53+00:00,t07,HOLD,HOLD,HUMAN_REVIEW_PENDING,"Auto-redaction completed, awaiting human audit on top-15 uncertain regions.",Ngo Duc Trinh (Lead),out\poc\redactions.csv;out\poc\contact_sheet.html
+2026-11-14T08:39:40+00:00,t07,GO,GO,REDACTED_AND_AUDITED,Exported 945 redacted regions after 5 human review decisions.,Ngo Duc Trinh (Lead),out\poc\redactions.csv;out\poc\audit_log.jsonl
