@@ -1,6 +1,2 @@
-member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Member 1,,,Lead / Integrator,src/main.py; configs/,,,
-Member 2,,,Data & fixtures,fixtures/; tools/,,,
-Member 3,,,Core algorithm,src/pipeline.py,,,
-Member 4,,,QA / metric,tests/; reports/metrics_*.json,,,
-Member 5,,,Human review + report,reports/group_report.md; demo/,,,
+student_name,student_id,git_author,git_email,role,modules,commit_sha,presented
+Ngo Duc Trinh,2A202603088,Ngo Duc Trinh,ductrinh318@users.noreply.github.com,Solo Lead / Full-stack Data Governance Engineer,"configs/lab.yaml;src/pipeline.py;tests/test_t07_pipeline.py;out/poc/*;out/baseline/*;reports/*",e5903a5,yes
